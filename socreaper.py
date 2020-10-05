@@ -1,8 +1,8 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-import requests,json,sys,codecs,sqlite3,os
-from BeautifulSoup import *
+import requests,json,sys,codecs,sqlite3,os,re
+from bs4 import BeautifulSoup
 
 BASE_ADDRESS="http://soc.nidv.cz"
 
@@ -13,7 +13,7 @@ def get_page(addr):
 
     req.encoding="utf-8"
     html = re.sub(r'&(?!amp;)', r'&amp;', req.text)
-    return BeautifulSoup(html)
+    return BeautifulSoup(html, features="lxml")
 
 def get_year_addresses():
     soup = get_page(BASE_ADDRESS + "/archiv")
@@ -94,7 +94,7 @@ def reap_field(addr):
                 thesis["attachment"] = fixup_link(a["href"])
 
         if "pdf" not in thesis and thesis["published"]:
-            print "link to pdf for thesis %s on page %s not found!" % (thesis["title"], addr)
+            print("link to pdf for thesis %s on page %s not found!" % (thesis["title"], addr))
             raise Exception()
 
         res.append(thesis)
@@ -139,10 +139,6 @@ def dump_to_sqlite(results, path):
     conn.close()
 
 if __name__ == "__main__":
-    UTF8Writer = codecs.getwriter('utf8')
-    sys.stdout = UTF8Writer(sys.stdout)
-    sys.stderr = UTF8Writer(sys.stderr)
-
     if len(sys.argv) >= 2:
         f = open(sys.argv[1], 'r')
         res = json.load(f)
@@ -153,4 +149,4 @@ if __name__ == "__main__":
         for season in addresses:
             sys.stderr.write("Reaping season %s\n" % season["season"])
             res.append(reap_season(season["season"], season["addr"]))
-        json.dump(res, sys.stdout, indent=2, ensure_ascii=False, encoding="utf-8")
+        json.dump(res, sys.stdout, indent=2, ensure_ascii=True)
