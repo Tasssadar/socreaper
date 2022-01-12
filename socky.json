@@ -1,5 +1,511 @@
 [
   {
+    "season": 43,
+    "year": 2021,
+    "theses": [
+      {
+        "title": "Roz\u0161\u00ed\u0159en\u00ed derivace pomoc\u00ed teorie stability",
+        "place": 1,
+        "description": "C\u00edlem pr\u00e1ce je roz\u0161\u00ed\u0159it standardn\u00ed oper\u00e1tor derivace do v\u0161ech nez\u00e1porn\u00fdch re\u00e1ln\u00fdch \u0159\u00e1d\u016f. Toto roz\u0161\u00ed\u0159en\u00ed je zalo\u017eeno na paralel\u00e1ch mezi rekurentn\u00edmi posloupnostmi a jejich odpov\u00eddaj\u00edc\u00edmi diferenci\u00e1ln\u00edmi rovnicemi.",
+        "field": "1. matematika a statistika",
+        "published": true,
+        "authors": "Vojt\u011bch Kloud",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/4181413e-8d7a-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "p-adick\u00e1 \u010d\u00edsla",
+        "place": 2,
+        "description": "Prvn\u00edm c\u00edlem m\u00e9 pr\u00e1ce bylo uv\u00e9st \u010dten\u00e1\u0159e do sv\u011bta p-adick\u00fdch \u010d\u00edsel a napsat text, kter\u00fd by byl \u010diteln\u00fd i pro st\u0159edo\u0161kolsk\u00e9 studenty se z\u00e1jmem a matematiku. N\u00e1sledn\u011b pomoc\u00ed nabyt\u00fdch znalost\u00ed sestavit vlastn\u00ed d\u016fkazy zn\u00e1m\u00fdch matematick\u00fdch tvrzen\u00ed a t\u00edm dok\u00e1zat, jak moc jsou p-adick\u00e1 \u010d\u00edsla u\u017eite\u010dn\u00e1.",
+        "field": "1. matematika a statistika",
+        "published": true,
+        "authors": "Ad\u00e9la Heroudkov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/e2ad1406-9303-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Isogenie v kryptografii",
+        "place": 3,
+        "description": "Prvotn\u00edm c\u00edlem pr\u00e1ce bylo uv\u00e9st \u010dten\u00e1\u0159e se znalostmi vysoko\u0161kolsk\u00e9ho u\u010diva algebry do studia isogeni\u00ed eliptick\u00fdch k\u0159ivek. Nem\u00e9n\u011b d\u016fle\u017eit\u00fd sekund\u00e1rn\u00ed c\u00edl v\u0161ak spo\u010d\u00edv\u00e1 v uveden\u00ed \u010dten\u00e1\u0159e do problematiky hled\u00e1n\u00ed post-kvantov\u00fdch kryptografick\u00fdch protokol\u016f a diskuze protokol\u016f zalo\u017een\u00fdch na isogeni\u00edch supersingul\u00e1rn\u00edch k\u0159ivek. Do t\u0159etice bylo v pl\u00e1nu vybran\u00e9 protokoly implementovat, aby si \u010dten\u00e1\u0159 mohl b\u011bh v\u00fdm\u011bn prozkoumat na vlastn\u00ed p\u011bst.",
+        "field": "1. matematika a statistika",
+        "published": true,
+        "authors": "Zden\u011bk Pezlar",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/d97d25e1-9729-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/d97d25e1-9729-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "P\u0159\u00edprava a charakterizace spinov\u011b polarizovan\u00fdch hrot\u016f pro tunelovac\u00ed mikroskopii.",
+        "place": 1,
+        "description": "Hlavn\u00edm c\u00edlem pr\u00e1ce bylo zdokonalit novou metodu v\u00fdroby hrot\u016f ze slitiny Mn88Ni12 pro n\u00edzkoteplotn\u00ed skenovac\u00ed tunelovac\u00ed mikroskop. Dal\u0161\u00edm c\u00edlem bylo ov\u011b\u0159it spinovou polarizaci t\u011bchto hrot\u016f.",
+        "field": "2. fyzika",
+        "published": true,
+        "authors": "Petr Kahan",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/e832003c-88a7-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Testov\u00e1n\u00ed a kalibrace slune\u010dn\u00edho spektrometru",
+        "place": 2,
+        "description": "Tato pr\u00e1ce p\u0159in\u00e1\u0161\u0131\u0301 prvn\u0131\u0301 v\u00fdsledky m\u011b\u0159en\u0131\u0301 slune\u010dn\u0131\u0301ho spektrometru FICUS (Flare Intensity Continuum\r\nUltra-wide Spectrograph) um\u0131\u0301st\u011bn\u00e9m na slune\u010dn\u0131\u0301m odd\u011blen\u0131\u0301 ASU AV \u010cR, jeho\u017e c\u0131\u0301lem bude po\u0159\u0131\u0301zen\u0131\u0301\r\nprvn\u0131\u0301ch \u010dasov\u011b rozli\u0161en\u00fdch spekter slune\u010dn\u0131\u0301ch erupc\u0131\u0301 v oblasti optick\u00e9ho kontinua. Jsou vyvinuty pro-\r\ncedury pro absolutn\u0131\u0301 kalibraci ve vlnov\u00e9 d\u00e9lce a v intenzit\u011b, je\u017e se \u00fasp\u011b\u0161n\u011b da\u0159\u0131\u0301 aplikovat na prvn\u0131\u0301 re\u00e1ln\u00e1\r\nm\u011b\u0159en\u0131\u0301. Tato pr\u00e1ce nal\u00e9z\u00e1 pozorovac\u0131\u0301 limity tohoto p\u0159\u0131\u0301stroje a odhaluje z\u00e1va\u017en\u00e9 instrument\u00e1ln\u0131\u0301 z\u00e1vady,\r\nkter\u00e9 budou na z\u00e1klad\u011b t\u00e9to pr\u00e1ce opraveny. Na z\u00e1v\u011br jsou p\u0159edstavena pozorov\u00e1n\u0131\u0301 okrajov\u00e9ho ztemn\u011bn\u0131\u0301,\r\ns jejich\u017e pomoc\u0131\u0301 je ur\u010dena teplotn\u0131\u0301 struktura slune\u010dn\u0131\u0301 fotosf\u00e9ry.",
+        "field": "2. fyzika",
+        "published": true,
+        "authors": "Marco Souza de Joode",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/ed7e93f6-8247-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Poloha z\u00f3ny vytv\u00e1\u0159en\u00ed turbulentn\u00edch struktur v okrajov\u00e9m plazmatu tokamaku GOLEM",
+        "place": 3,
+        "description": "Hlavn\u00edm c\u00edlem t\u00e9to pr\u00e1ce bylo naj\u00edt m\u00edsto vzniku turbulentn\u00edch struktur v okrajov\u00e9m plazmatu tokamaku GOLEM. Hypot\u00e9za zn\u00ed, \u017ee v okrajov\u00e9m plazmatu existuje z\u00f3na vytv\u00e1\u0159en\u00ed turbulentn\u00edch struktur, kde je mno\u017estv\u00ed blob\u016f a d\u011br stejn\u00e9, a kter\u00e1 je pevn\u011b spjata s okrajem plazmatu (separatrix). Pr\u00e1v\u011b touto ot\u00e1zkou se zab\u00fdv\u00e1 experiment\u00e1ln\u00ed \u010d\u00e1st t\u00e9to pr\u00e1ce, ve kter\u00e9 se budu sna\u017eit tuto hypot\u00e9zu potvrdit \u010di vyvr\u00e1tit.",
+        "field": "2. fyzika",
+        "published": true,
+        "authors": "Ale\u0161 Socha",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/68f5b155-56b7-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/68f5b155-56b7-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "P\u0159esmyky methansulfon\u00e1t\u016f N-aryl hydroxamov\u00fdch kyselin",
+        "place": 1,
+        "description": "C\u00edlem pr\u00e1ce bylo prozkoumat p\u0159esmyk a reaktivitu N-aryl-OMs hydroxamov\u00fdch kyselin, vliv substituentu benzenov\u00e9ho j\u00e1dra na mechanismus reakce a distribuci produkt\u016f.",
+        "field": "3. chemie",
+        "published": true,
+        "authors": "Veronika Martinkov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/4b1657b4-8811-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "C\u00edlen\u00e9 strukturov\u00e1n\u00ed k\u0159emenn\u00fdch povrch\u016f \u2013 siln\u00fd n\u00e1stroj nazna\u010duj\u00edc\u00ed nov\u00e9 mo\u017enosti existuj\u00edc\u00edch separa\u010dn\u00edch metod",
+        "place": 2,
+        "description": "C\u00edlem pr\u00e1ce bylo podrobn\u011b rozvinout techniku strukturov\u00e1n\u00ed vnit\u0159n\u00edho povrchu k\u0159emenn\u00e9 kapil\u00e1ry pomoc\u00ed superkritick\u00e9 vody. Vzhledem k velk\u00e9mu pl\u00e1novan\u00e9mu mno\u017estv\u00ed experiment\u016f pak navrhnout a vytvo\u0159it metodu zpracov\u00e1n\u00ed v\u00fdsledn\u00fdch dat, kter\u00e9 byly p\u0159ev\u00e1\u017en\u011b obrazov\u00e9ho typu. Posledn\u00edm c\u00edlem bylo definovat podm\u00ednky nutn\u00e9 ke vzniku co nejv\u011bt\u0161\u00edho po\u010dtu rozd\u00edln\u00fdch struktur.",
+        "field": "3. chemie",
+        "published": true,
+        "authors": "Pavel Kar\u00e1sek",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/7611a128-6950-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "V\u00fdvoj imidazopyrimidin\u016f jako inhibitor\u016f cyklin dependentn\u00edch kinas",
+        "place": 3,
+        "description": "P\u0159\u00edprava potenci\u00e1ln\u00edch imidazopyrimidinov\u00fdch inhibitor\u016f CDK4",
+        "field": "3. chemie",
+        "published": true,
+        "authors": "Tereza Havl\u00edkov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/d8626c95-8e7e-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Vliv krajiny na hn\u00edzdn\u00ed preference a chov\u00e1n\u00ed blanok\u0159\u00eddl\u00fdch hn\u00edzd\u00edc\u00edch ve stonc\u00edch",
+        "place": 1,
+        "description": "M\u00fdm c\u00edlem bylo zjistit a zhodnotit rozd\u00edly v hn\u00edzdn\u00ed ekologii blanok\u0159\u00eddl\u00fdch v such\u00fdch stonc\u00edch rostlin mezi agr\u00e1rn\u00edm biotopem (pole) a p\u0159irozen\u00fdm biotopem (v\u0159esovi\u0161t\u011b), posl\u00e9ze stanovi\u0161ti, kter\u00e9 tvo\u0159\u00ed jak\u00fdsi p\u0159echod mezi t\u011bmito dv\u011bma biotopy, a to okraj v\u0159esovi\u0161t\u011b a meze. Zvl\u00e1\u0161t\u011b jsem se cht\u011bla zam\u011b\u0159it na v\u010dely kyjoro\u017eky (Ceratina) a jejich chov\u00e1n\u00ed. Na z\u00e1klad\u011b anal\u00fdzy hn\u00edzd odebran\u00fdch z d\u0159\u00edve rozm\u00edst\u011bn\u00fdch hn\u00edzdn\u00edch p\u0159\u00edle\u017eitost\u00ed bylo c\u00edlem zjistit, jak\u00e9 druhy prefuruj\u00ed jak\u00e1 stanovi\u0161t\u011b, jejich hn\u00edzdn\u00ed strukturu, pom\u011br pohlav\u00ed potomk\u016f, m\u00edru matern\u00e1ln\u00ed investice a dal\u0161\u00ed faktory, a n\u00e1sledn\u011b posoudit, jak se tyto jevy li\u0161\u00ed mezi stanovi\u0161t\u011bmi. Pomoc\u00ed anal\u00fdzy mikrosatelitov\u00fdch lokus\u016f jsem tak\u00e9 cht\u011bla zjistit, zda se li\u0161\u00ed po\u010det p\u00e1\u0159en\u00ed matky u kyjoro\u017eky \u010dernoret\u00e9 mezi stanovi\u0161ti.",
+        "field": "4. biologie",
+        "published": true,
+        "authors": "Jitka Waldhauserov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/c60fc232-8a5f-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/c60fc232-8a5f-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Predikce rizika infekce SARS-CoV-2 u savc\u016f",
+        "place": 2,
+        "description": "Z\u00e1m\u011brem pr\u00e1ce je predikovat riziko infekce SARS-CoV-2 u savc\u016f na z\u00e1klad\u011b strukturn\u00edch znalost\u00ed o receptorech ACE2 a DPP4. C\u00edlem pr\u00e1ce je srovnat aminokyselinov\u00e9 pozice d\u016fle\u017eit\u00e9 pro vazbu ACE2 a DPP4 na S protein SARS-CoV-2 mezi jednotliv\u00fdmi sekvencemi savc\u016f za \u00fa\u010delem predikce mo\u017en\u00e9ho mezidruhov\u00e9ho p\u0159enosu. Dal\u0161\u00edm c\u00edlem pr\u00e1ce je i tvorba fylogenetick\u00e9ho stromu a dendrogramu terci\u00e1rn\u00edch proteinov\u00fdch struktur a jejich srovn\u00e1n\u00ed za \u00fa\u010delem srovn\u00e1n\u00ed rychlosti evoluce sekvence DNA a struktury proteinu a identifikace \u017eivo\u010dich\u016f, u nich\u017e je v\u00fdznamn\u011b odli\u0161n\u00e1 terci\u00e1rn\u00ed struktura receptoru od fylogenetick\u00e9ho stromu na z\u00e1klad\u011b DNA.",
+        "field": "4. biologie",
+        "published": true,
+        "authors": "V\u00edt\u011bzslav Havl\u00ed\u010dek",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/e6c483ea-8759-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/e6c483ea-8759-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Imunitn\u00ed reakce a reparace c\u00edlov\u00fdch org\u00e1n\u016f po inhalaci rozpustn\u00fdch nano\u010d\u00e1stic olova",
+        "place": 3,
+        "description": "C\u00edlem pr\u00e1ce bylo posoudit vliv inhalace rozpustn\u00fdch nano\u010d\u00e1stic olova na\u00a0mikroskopickou stavbu c\u00edlov\u00fdch org\u00e1n\u016f (plic a jater), na jejich imunitn\u00ed odpov\u011b\u010f a\u00a0n\u00e1slednou reparaci.",
+        "field": "4. biologie",
+        "published": true,
+        "authors": "Adriena Jedli\u010dkov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/9c4ce84f-90c2-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Asociace mikrofosili\u00ed lokality \u0160t\u00edty (Byst\u0159ick\u00fd litofaci\u00e1ln\u00ed v\u00fdvoj \u010cesk\u00e9 k\u0159\u00eddov\u00e9 p\u00e1nve)",
+        "place": 1,
+        "description": "P\u0159edlo\u017een\u00e1 pr\u00e1ce si klade za c\u00edl:\r\n-\tzhodnotit sou\u010dasn\u00fd stav lokality po ukon\u010den\u00ed t\u011b\u017eby cihl\u00e1\u0159sk\u00e9 suroviny\r\n-\tpopsat b\u00fdval\u00fd t\u011b\u017eebn\u00ed prostor\r\n-\tv re\u0161er\u0161n\u00ed \u010d\u00e1sti pr\u00e1ce prostudovat dostupnou odbornou literaturu, zab\u00fdvaj\u00edc\u00ed se geologickou stavbou a paleontologick\u00fdmi n\u00e1lezy v okol\u00ed \u0160t\u00edt\u016f a \u010cesk\u00e9 k\u0159\u00eddov\u00e9 p\u00e1nve, tak\u00e9 prostudovat \u010dl\u00e1nky publikovan\u00e9 v \u010d\u00e1sti Nysa K\u0142odzka Graben (Sudety, SW Polsko), Kladsk\u00e1 kotlina\r\n-\tvlastn\u00ed ter\u00e9nn\u00ed pr\u00e1ce zam\u011b\u0159it na odebr\u00e1n\u00ed vzork\u016f p\u0159\u00edmo na lokalit\u011b\r\n-\tvytvo\u0159it ucelenou kolekci mikrofosili\u00ed, podrobit ji dal\u0161\u00edmu studiu\r\n-\tporovnat n\u00e1lezy se vzorky publikovan\u00fdmi v odborn\u00e9 literatu\u0159e na dan\u00e9 lokalit\u011b\r\n-\tst\u011b\u017eejn\u00ed \u010d\u00e1st pr\u00e1ce spo\u010d\u00edv\u00e1 v determinaci nalezen\u00fdch mikrofosili\u00ed a jejich za\u0159azen\u00ed do syst\u00e9mu",
+        "field": "5. geologie, geografie",
+        "published": true,
+        "authors": "Ale\u0161 Janderka",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/760d89a1-9aec-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Ter\u00e9nn\u00ed pr\u016fzkum st\u0159edov\u011bk\u00e9ho mont\u00e1nn\u00edho komplexu Hav\u00edrna u \u0160t\u011bp\u00e1nova nad Svratkou",
+        "place": 2,
+        "description": "Zdokumentovat aktu\u00e1ln\u00ed situaci mont\u00e1nn\u00edho komplexu Hav\u00edrna u \u0160t\u011bp\u00e1nova nad Svratkou. Zam\u011b\u0159il jsem se na dochovan\u00e9 poz\u016fstatky d\u016fln\u00edch d\u011bl, poz\u016fstatky st\u0159edov\u011bk\u00e9 osady, n\u00e1lezy miner\u00e1l\u016f, n\u00e1lezy strusek a archeologick\u00e9 n\u00e1lezy. D\u016fraz je kladen tak\u00e9 na dokumentaci vliv\u016f sou\u010dasn\u00e9 t\u011b\u017eby d\u0159eva na lokalitu.",
+        "field": "5. geologie, geografie",
+        "published": true,
+        "authors": "Karel Pro\u010dka",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/62483407-7f8b-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Tvorba 3D modelu vojensk\u00e9ho Opevn\u011bn\u00ed v Darkovi\u010dk\u00e1ch s vyu\u017eit\u00edm bezpilotn\u00edho syst\u00e9mu",
+        "place": 3,
+        "description": "C\u00edlem bylo vytvo\u0159it 3D model opevn\u011bn\u00ed se v\u0161emi n\u00e1le\u017eitostmi a jeho export jako samostatn\u00fd soubor.",
+        "field": "5. geologie, geografie",
+        "published": true,
+        "authors": "Franti\u0161ek Gureck\u00fd, Veronika Ciencialov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/9470a4f9-65f0-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/9470a4f9-65f0-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Hled\u00e1n\u00ed nov\u00fdch ligand\u016f k objasn\u011bn\u00ed farmakotoxikologick\u00fdch aspekt\u016f my\u0161\u00edho konstitutivn\u00edho androstanov\u00e9ho receptoru",
+        "place": 1,
+        "description": "Tato SO\u010c pr\u00e1ce se zab\u00fdv\u00e1 studiem p\u0159\u00edm\u00e9 aktivace mCAR receptoru ligandem TCPOBOP za n\u00e1sledn\u00e9 karcinogeneze a mo\u017enostmi, jak j\u00ed zabr\u00e1nit.  Hlavn\u00ed c\u00edle t\u00e9to pr\u00e1ce byly: (i) objeven\u00ed potenci\u00e1ln\u00edch ligand\u016f my\u0161\u00edho konstitutivn\u00edho androstanov\u00e9ho receptoru, (ii) testov\u00e1n\u00ed interakce 4 vybran\u00fdch l\u00e1tek definovan\u00e9 struktury odvozen\u00e9 od modifikace TCPOBOP s my\u0161\u00edm konstitutivn\u00edm androstanov\u00fdm receptorem metodou gene reporter assay, (iii) testov\u00e1n\u00ed cytotoxicity dan\u00fdch l\u00e1tek na bun\u011b\u010dn\u00fdch lini\u00edch HepG2 a (iv) nalezen\u00ed inhibitor\u016f my\u0161\u00edho konstitutivn\u00edho androstanov\u00e9ho receptoru z \u0159ady testovan\u00fdch l\u00e1tek.",
+        "field": "6. zdravotnictv\u00ed ",
+        "published": false,
+        "authors": "Nikola Eva  M\u00e1dlov\u00e1"
+      },
+      {
+        "title": "P\u0159\u00edprava a anal\u00fdza konjug\u00e1tu CTX-DFO jako potenci\u00e1ln\u00edho nosi\u010de v nukle\u00e1rn\u00ed medic\u00edn\u011b",
+        "place": 2,
+        "description": "Pr\u00e1ce se zab\u00fdv\u00e1 problematikou p\u0159\u00edpravy potenci\u00e1ln\u00edho radionuklidov\u00e9ho nosi\u010de, kter\u00fd se skl\u00e1d\u00e1 z cetuximabu a squaramid ester deriv\u00e1tu deferoxaminu ve \u010dty\u0159ech r\u016fzn\u00fdch mol\u00e1rn\u00edch pom\u011brech. Radionuklidov\u00fd nosi\u010d je sou\u010d\u00e1st\u00ed radiofarmaka, co\u017e je radioaktivn\u00ed l\u00e9\u010divo, kter\u00e9 se nej\u010dast\u011bji pou\u017e\u00edv\u00e1 k diagnostice nebo terapii onkologick\u00fdch onemocn\u011bn\u00ed. P\u0159\u00edprava konjug\u00e1tu cetuximabu (protil\u00e1tka) a squaramid ester deriv\u00e1tu deferoxaminu (chel\u00e1tor) zahrnuje mno\u017estv\u00ed kritick\u00fdch krok\u016f, kter\u00e9 mohou v\u00e9st k po\u0161kozen\u00ed molekuly protil\u00e1tky i samotn\u00e9ho chel\u00e1toru. C\u00edlem m\u00e9 pr\u00e1ce je stanovit mol\u00e1rn\u00ed pom\u011br obou slo\u017eek, p\u0159i kter\u00e9m doch\u00e1z\u00ed k nejmen\u0161\u00edmu po\u0161kozen\u00ed protil\u00e1tky, a stanovit tak optim\u00e1ln\u00ed mol\u00e1rn\u00ed pom\u011br ke konjugaci a n\u00e1sladn\u00e9mu zna\u010den\u00ed radionuklidem.",
+        "field": "6. zdravotnictv\u00ed ",
+        "published": true,
+        "authors": "Petra Mi\u0161kovi\u010dov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/57684d42-8c0e-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Vliv modr\u00e9 spektr\u00e1ln\u00ed slo\u017eky sv\u011btla na us\u00edn\u00e1n\u00ed a sp\u00e1nek \u010dlov\u011bka",
+        "place": 3,
+        "description": "C\u00edlem pr\u00e1ce bylo uk\u00e1zat na jednoduch\u00e9m experimentu, jak snadn\u00e9 je v dne\u0161n\u00ed dob\u011b m\u011b\u0159it a zkvalit\u0148ovat sv\u016fj sp\u00e1nek. Z\u00e1rove\u0148 pr\u00e1ce hledala souvislost mezi modr\u00fdm spektr\u00e1ln\u00edm slo\u017een\u00edm sv\u011btla a sp\u00e1nkem, p\u0159\u00edpadn\u011b dobou us\u00edn\u00e1n\u00ed. D\u00e1le bylo z\u00e1m\u011brem \u0161\u00ed\u0159it osv\u011btu kolem modr\u00e9ho sv\u011btla ve ve\u010dern\u00edch hodin\u00e1ch.",
+        "field": "6. zdravotnictv\u00ed ",
+        "published": true,
+        "authors": "V\u00edt  Pavl\u00edk",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/f3b75f37-6156-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/f3b75f37-6156-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Problematika v\u00fdskytu arsenu na Velharticku",
+        "place": 1,
+        "description": "Zmapov\u00e1n\u00ed problematiky v\u00fdskytu arsenu ve vodn\u00edch zdroj\u00edch na Velharticku; obsah arsenu v plodin\u00e1ch zal\u00e9van\u00fdch vodou kontaminovanou arsenem; optimalizace metodiky z\u00edsk\u00e1v\u00e1n\u00ed nov\u00fdch zdroj\u016f vody s ni\u017e\u0161\u00edm obsahem arsenu",
+        "field": "7. zem\u011bd\u011blstv\u00ed, potravin\u00e1\u0159stv\u00ed, lesn\u00ed a vodn\u00ed hospod\u00e1\u0159stv\u00ed",
+        "published": true,
+        "authors": "Barbora Volfov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/ee8bb0e8-7819-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Detekce viru africk\u00e9ho moru prasat pomoc\u00ed supermagnetick\u00fdch nano\u010d\u00e1stic",
+        "place": 2,
+        "description": "Z\u00e1m\u011brem bylo vyvinout jednoduchou a rychlou metodu p\u0159\u00edm\u00e9 detekce viru africk\u00e9ho moru prasat (VAMP). C\u00edlem pr\u00e1ce bylo otestovat \u010d\u00e1st t\u00e9to metody \u2013 vazbu DNA na supermagnetick\u00e9 nano\u010d\u00e1stice oxidu \u017eelezit\u00e9ho a elektrochemickou detekci DNA.",
+        "field": "7. zem\u011bd\u011blstv\u00ed, potravin\u00e1\u0159stv\u00ed, lesn\u00ed a vodn\u00ed hospod\u00e1\u0159stv\u00ed",
+        "published": true,
+        "authors": "Ond\u0159ej Rychl\u00fd",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/7766ca09-51c6-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/7766ca09-51c6-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Z\u00e1vislost vybran\u00fdch fenotypov\u00fdch znak\u016f plemene Welsh Mountain Pony na alele G",
+        "place": 3,
+        "description": "V\u00fdzkum z\u00e1vislosti vybran\u00fdch fenotypov\u00fdch znak\u016f u kon\u00ed plemene Welsh Mountain Pony na alele G umo\u017e\u0148uj\u00edc\u00ed potvrzen\u00ed \u010di vyvr\u00e1cen\u00ed jejich semidominantn\u00edho charakteru. Na z\u00e1klad\u011b tohoto v\u00fdzkumu lze usnadnit ur\u010dov\u00e1n\u00ed genotypu t\u011bchto kon\u00ed pro gen G (gray).",
+        "field": "7. zem\u011bd\u011blstv\u00ed, potravin\u00e1\u0159stv\u00ed, lesn\u00ed a vodn\u00ed hospod\u00e1\u0159stv\u00ed",
+        "published": true,
+        "authors": "Martin Du\u0161ek",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/ccacf978-97a3-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Vliv obnovy t\u016fn\u00ed v are\u00e1lu b\u00fdval\u00e9ho tankodromu na spole\u010denstvo vodn\u00edch brouk\u016f",
+        "place": 1,
+        "description": "V t\u00e9to pr\u00e1ci jsem \u010dty\u0159i roky sledovala vliv obnovy t\u016fn\u00ed v are\u00e1lu b\u00fdval\u00e9ho tankodromu na\r\nspole\u010denstvo vodn\u00edch brouk\u016f. C\u00edlem pr\u00e1ce bylo zmapovat celkovou diverzitu vodn\u00edch brouk\u016f na zm\u00edn\u011bn\u00fdch lokalit\u00e1ch, zjistit dlouhodob\u00fd efekt proveden\u00e9ho managementu na spole\u010denstvo vodn\u00edch brouk\u016f a popsat, jak\u00e9 environment\u00e1ln\u00ed faktory ovliv\u0148uj\u00ed strukturu spole\u010denstva vodn\u00edch brouk\u016f. Na z\u00e1klad\u011b t\u011bchto zji\u0161t\u011bn\u00ed byl pot\u00e9\r\nnavrhnut dal\u0161\u00ed efektivn\u00ed management na studovan\u00e9m \u00fazem\u00ed.",
+        "field": "8. ochrana a tvorba \u017eivotn\u00edho prost\u0159ed\u00ed ",
+        "published": true,
+        "authors": "Tereza Maxerov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/573a2c38-7467-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Charakteristika atmosf\u00e9rick\u00e9ho aerosolu na \u010desk\u00e9 poza\u010fov\u00e9 stanici v \u0161estilet\u00e9m \u010dasov\u00e9m rozli\u0161en\u00ed",
+        "place": 2,
+        "description": "Pr\u00e1ce popisuje kvantitativn\u00ed a kvalitativn\u00ed vlastnosti atmosf\u00e9rick\u00e9ho aerosolu (AA) na \u010desk\u00e9 venkovsk\u00e9 poza\u010fov\u00e9 stanici, hlavn\u00edm c\u00edlem proveden\u00e9 anal\u00fdzy bylo popsat vliv lidsk\u00e9 \u010dinnosti na vlastnosti AA a odhadnout jeho zdroje v lok\u00e1ln\u00edm i evropsk\u00e9m m\u011b\u0159\u00edtku.",
+        "field": "8. ochrana a tvorba \u017eivotn\u00edho prost\u0159ed\u00ed ",
+        "published": true,
+        "authors": "V\u00edt Novotn\u00fd",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/167b7fa8-6647-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Hlasov\u00e1 aktivita a hn\u00edzdn\u00ed ekologie sluky lesn\u00ed Scolopax rusticola v \u010cesk\u00e9 republice ",
+        "place": 3,
+        "description": "P\u0159esto\u017ee je sluka lesn\u00ed jeden z na\u0161ich nejpo\u010detn\u011bj\u0161\u00edch pt\u00e1k\u016f ze skupiny bah\u0148\u00e1k\u016f v \u010cesk\u00e9 republice, \r\no jej\u00ed hn\u00edzdn\u00ed ekologii p\u0159\u00edli\u0161 mnoho nev\u00edme. \u017dije velmi skryt\u011b a nen\u00e1padn\u011b. Jedinou v\u00fdjimku \u010din\u00ed jej\u00ed tok, b\u011bhem kter\u00e9ho m\u016f\u017eeme sluku zaznamenat v lesn\u00edm prost\u0159ed\u00ed b\u011bhem soumraku od \u00fanora \r\ndo \u010dervence. Nap\u0159\u00ed\u010d Evropou se ale jej\u00ed hn\u00edzdn\u00ed strategie li\u0161\u00ed, ve Velk\u00e9 Brit\u00e1nii a v Rusku ji m\u016f\u017eeme nej\u010dast\u011bji zastihnout tokat v kv\u011btnu a\u017e \u010dervnu, naopak v Azor\u00e1ch je tomu tak v dubnu a ve \u0160v\u00e9dsku sluka tok\u00e1 v p\u0159ibli\u017en\u011b ve st\u00e1le stejn\u00e9 intenzit\u011b b\u011bhem sez\u00f3ny. Podle \u010desk\u00e9 literatury je sluka \r\nu n\u00e1s nejsn\u00e1ze k zasti\u017een\u00ed v obdob\u00ed p\u0159\u00edletu a jarn\u00ed migrace, v b\u0159eznu a\u017e dubnu, s klesaj\u00edc\u00ed pravd\u011bpodobnost\u00ed pozorov\u00e1n\u00ed do letn\u00edch m\u011bs\u00edc\u016f. Tyto informace v\u0161ak \u010dasto poch\u00e1z\u00ed pouze z lok\u00e1ln\u00edch z\u00e1znam\u016f nebo mysliveck\u00fdch poznatk\u016f a podrobn\u011bj\u0161\u00ed v\u00fdzkum hn\u00edzdn\u00ed ekologie a toku sluky lesn\u00ed u n\u00e1s nikdy neprob\u011bhl.\r\nProto jsem se zam\u011b\u0159ila na d\u016fkladn\u011bj\u0161\u00ed prozkoum\u00e1n\u00ed hlasov\u00e9 aktivity a hn\u00edzdn\u00ed ekologie sluky lesn\u00ed v \u010cesk\u00e9 republice za pomoci dobrovoln\u00fdch mapovatel\u016f v r\u00e1mci projektu ob\u010dansk\u00e9 v\u011bdy. Konkr\u00e9tn\u011b jsem zji\u0161\u0165ovala:\r\n\u2022\tJak\u00e9 faktory ovliv\u0148uj\u00ed v\u00fdb\u011br hn\u00edzdn\u00edho prost\u0159ed\u00ed sluky lesn\u00ed;\r\n\r\n\u2022\tJak\u00fd je vliv sez\u00f3ny a nadmo\u0159sk\u00e9 v\u00fd\u0161ky na hlasovou aktivitu sluky lesn\u00ed;\r\n\r\n\u2022\tJak\u00fd je vliv po\u010detnosti sluky lesn\u00ed na lokalit\u011b na jej\u00ed hlasovou aktivitu;\r\n\r\n\u2022\tJak\u00e9 jsou d\u0159\u00edve nezn\u00e1m\u00e9 lokality s v\u00fdskytem sluky lesn\u00ed zji\u0161t\u011bn\u00e9 pomoc\u00ed projektu slu\u010d\u00ed hodinovka, pop\u0159. jak\u00e9 je nejsp\u00ed\u0161e aktu\u00e1ln\u00ed roz\u0161\u00ed\u0159en\u00ed sluky lesn\u00ed v r\u00e1mci \u010cesk\u00e9 republiky pro obdob\u00ed 2014\u20132020;\r\n\r\n\u2022\tZdali je mo\u017en\u00e9 rozeznat individu\u00e1ln\u00ed tokaj\u00edc\u00ed sluky pomoc\u00ed akustick\u00fdch nahr\u00e1vek;\r\n\r\n\u2022\tJak bude projekt ob\u010dansk\u00e9 v\u011bdy \u201eSlu\u010d\u00ed hodinovka\u201c fungovat se zapojen\u00edm \u0161irok\u00e9 ve\u0159ejnosti a zda bude vhodn\u00e9 s n\u00edm nad\u00e1le pokra\u010dovat.",
+        "field": "8. ochrana a tvorba \u017eivotn\u00edho prost\u0159ed\u00ed ",
+        "published": true,
+        "authors": "Kate\u0159ina \u017dohov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/61da3a3a-9496-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "\u010cty\u0159noh\u00fd robot",
+        "place": 1,
+        "description": "Pr\u00e1ce se zab\u00fdv\u00e1 n\u00e1vrhem a konstrukc\u00ed \u010dty\u0159noh\u00e9ho robota poh\u00e1n\u011bn\u00e9ho hobby \r\nservomotory CLS6336HV. Sou\u010d\u00e1st\u00ed je n\u00e1vrh matematick\u00e9ho modelu robota, v\u00fdpo\u010det \r\ndop\u0159edn\u00e9 a inverzn\u00ed kinematiky, popis pou\u017eit\u00fdch komponent\u016f a matematick\u00fdch metod \r\nnutn\u00fdch pro tvorbu tak\u00e9ho syst\u00e9mu. V z\u00e1v\u011bru je pops\u00e1n i ovl\u00e1dac\u00ed software, d\u00edky kter\u00e9mu \r\nje robot rozpohybov\u00e1n. V\u00fdsledn\u00fd syst\u00e9m je otestov\u00e1n v simulaci a n\u00e1sledn\u011b i na re\u00e1ln\u00e9m \r\nrobotu.",
+        "field": "9. stroj\u00edrenstv\u00ed, hutnictv\u00ed a doprava",
+        "published": true,
+        "authors": "Jakub Jon",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/8fdbb69a-91ff-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "V\u00fdroba spalovac\u00edho motoru Felgiebel a jeho zapalov\u00e1n\u00ed",
+        "place": 2,
+        "description": "Vyrobit funk\u010dn\u00ed z\u00e1\u017eehov\u00fd spalovac\u00ed motor v\u010detn\u011b zapalov\u00e1n\u00ed.",
+        "field": "9. stroj\u00edrenstv\u00ed, hutnictv\u00ed a doprava",
+        "published": true,
+        "authors": "Daniel \u0160kop",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/0946a9a2-6892-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "D\u00e1lkov\u011b ovl\u00e1dan\u00fd kolov\u00fd transport\u00e9r",
+        "place": 3,
+        "description": "Tato pr\u00e1ce popisuje tvorbu d\u00e1lkov\u011b ovl\u00e1dan\u00e9ho kolov\u00e9ho transport\u00e9ru se sklopnou korbou ur\u010den\u00e9ho k p\u0159evozu p\u0159ev\u00e1\u017en\u011b zahradn\u00edho materi\u00e1lu, odpadu a surovin do hmotnosti 75 kg v kopcovit\u00e9m ter\u00e9nu. D\u016fle\u017eitou podm\u00ednkou byla \u0161etrnost k povrchu, aby se mohl transport\u00e9r pohybovat i po tr\u00e1vn\u00edku a nezanechal na n\u011bm \u017e\u00e1dn\u00e9 trval\u00e9 stopy. Dal\u0161\u00ed kl\u00ed\u010dovou vlastnost\u00ed bylo d\u00e1lkov\u00e9 ovl\u00e1d\u00e1n\u00ed, aby se obsluha nemusela pohybovat spolu s transport\u00e9rem.",
+        "field": "9. stroj\u00edrenstv\u00ed, hutnictv\u00ed a doprava",
+        "published": true,
+        "authors": "Martin Andrys\u00edk",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/a698c67d-9539-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Pineapple ONE",
+        "place": 1,
+        "description": "Vytvo\u0159en\u00ed vlastn\u00edho procesoru jednoduch\u00fdch logick\u00fdch obvod\u016f.",
+        "field": "10. elektrotechnika, elektronika a telekomunikace",
+        "published": true,
+        "authors": "Filip Szkandera",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/7182634e-97a7-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "BlackBox",
+        "place": 2,
+        "description": "C\u00edlem pr\u00e1ce je navrhnout hardware, kter\u00fd umo\u017e\u0148uje snadno realizovat i slo\u017eit\u00e9 hry a nebo z\u00e1\u017eitkov\u00e9 akce a z\u00e1rove\u0148 bude fungovat jako robotick\u00e1 stavebnice pro v\u00fduku i volno\u010dasov\u00e9 aktivity.  \r\nProto bude vybaven \u0159adou senzor\u016f, nap\u0159\u00edklad akcelerometrem, gyroskopem, barometrem a dal\u0161\u00edmi. \r\nBude odoln\u00fd a vhodn\u00fd pro nasazen\u00ed ve venkovn\u00edm prost\u0159ed\u00ed.",
+        "field": "10. elektrotechnika, elektronika a telekomunikace",
+        "published": true,
+        "authors": "Tom\u00e1\u0161 Vavrinec",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/941a484c-989a-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/941a484c-989a-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "RISC-V Procesor",
+        "place": 3,
+        "description": "N\u00e1vrh 32 bitov\u00e9ho RISC-V procesoru",
+        "field": "10. elektrotechnika, elektronika a telekomunikace",
+        "published": true,
+        "authors": "Dominik Liberda",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/f53d01da-883c-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/f53d01da-883c-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "N\u00e1vrh venkovn\u00ed u\u010debny",
+        "place": 1,
+        "description": "N\u00e1vrh venkovn\u00ed u\u010debny pro gymn\u00e1zium",
+        "field": "11. stavebnictv\u00ed, architektura a design interi\u00e9r\u016f",
+        "published": true,
+        "authors": "Veronika Tr\u010dkov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/a150dd99-4f80-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "N\u00e1ves, n\u00e1m\u011bst\u00ed - prostor pro setk\u00e1v\u00e1n\u00ed",
+        "place": 2,
+        "description": "Hlavn\u00edm c\u00edlem m\u00e9 pr\u00e1ce bylo vytvo\u0159it n\u00e1vrh n\u00e1vsi ve vesnici Velk\u00e9 Karlovice.",
+        "field": "11. stavebnictv\u00ed, architektura a design interi\u00e9r\u016f",
+        "published": true,
+        "authors": "Anna Martin\u00e1kov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/c03b47db-8ce4-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/c03b47db-8ce4-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "ASANACE \u017dI\u017dKOVA \u2013 dokument o  panelov\u00e9m dom\u011b",
+        "place": 3,
+        "description": "C\u00edlem pr\u00e1ce je odhalen\u00ed kontextu asanace \u017di\u017ekova, kter\u00e1 prob\u011bhla na p\u0159elomu 70. a 80. let. \u00dast\u0159edn\u00edm t\u00e9matem je panelov\u00fd d\u016fm v Kubel\u00edkov\u011b ulici, kter\u00fd byl postaven pr\u00e1v\u011b v r\u00e1mci t\u00e9to p\u0159estavby a ve kter\u00e9m odmali\u010dka \u017eiju. K pr\u00e1ci pat\u0159\u00ed i dokument\u00e1rn\u00ed film, kter\u00fd jsem nato\u010dil a kter\u00fd pl\u00e1nuji ve\u0159ejn\u011b prom\u00edtat a nav\u00e1zat na n\u011bj sousedskou debatou.",
+        "field": "11. stavebnictv\u00ed, architektura a design interi\u00e9r\u016f",
+        "published": true,
+        "authors": "Martin Kub\u00ed\u010de",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/b43f6784-90a7-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/b43f6784-90a7-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "U\u010debnice a materi\u00e1ly pro v\u00fduku jazyka C",
+        "place": 1,
+        "description": "Z\u00e1m\u011brem pr\u00e1ce bylo zlep\u0161en\u00ed v\u00fduky programov\u00e1n\u00ed jazyka C na na\u0161\u00ed \u0161kole. C\u00edl na\u0161\u00ed pr\u00e1ce bylo vytvo\u0159en\u00ed materi\u00e1l\u016f, kter\u00e9 nab\u00eddnou student\u016fm graficky a obsahov\u011b p\u0159\u00edv\u011btiv\u00e9 prost\u0159ed\u00ed pro sv\u00e9 studium. Materi\u00e1ly jsme cht\u011bli koncipovat tak, aby co nejl\u00e9pe vyhovovaly jak student\u016fm, tak tak\u00e9 u\u010ditel\u016fm. \u010casov\u00fdm a t\u00e9maticky pl\u00e1nem chceme p\u0159in\u00e9st v\u00fduce jasn\u00fd a pln\u011b definovan\u00fd c\u00edl.",
+        "field": "12. tvorba u\u010debn\u00edch pom\u016fcek, didaktick\u00e1 technologie",
+        "published": true,
+        "authors": "Adam Knedlhans, Miroslav Soukup",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/6f00b59f-8a67-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Sada materi\u00e1l\u016f pro podporu v\u00fduky stroj\u00edrensk\u00e9 konstrukce v SolidWorks",
+        "place": 2,
+        "description": "Vytvo\u0159en\u00ed komplexn\u00ed v\u00fdukov\u00e9 sady, jej\u00ed\u017e c\u00edlem je student\u016fm stru\u010dn\u011b, jasn\u011b a p\u0159ehledn\u011b demonstrovat postupy tvorby r\u016fzn\u00fdch prvk\u016f v SolidWorks. Sada bude zahrnovat v\u00fdukov\u00e1 videa, tisknuteln\u00e9 dopl\u0148kov\u00e9 materi\u00e1ly a webov\u00fd port\u00e1l.",
+        "field": "12. tvorba u\u010debn\u00edch pom\u016fcek, didaktick\u00e1 technologie",
+        "published": false,
+        "authors": "Petr \u0160toura\u010d"
+      },
+      {
+        "title": "Posuvn\u00e1 a k\u0159\u00eddlov\u00e1 vjezdov\u00e1 br\u00e1na \u0159\u00edzen\u00e1 PLC LOGO a Foxtrot s variabiln\u00ed kabel\u00e1\u017e\u00ed",
+        "place": 3,
+        "description": "Pr\u00e1ce se zab\u00fdv\u00e1 n\u00e1vrhem u\u010debn\u00ed pom\u016fcky do \u0161koln\u00ed laborato\u0159e mechatroniky. P\u0159i n\u00e1vrhu t\u00e9to pr\u00e1ce jsme se sna\u017eili roz\u0161\u00ed\u0159it invent\u00e1\u0159 \u0161koln\u00edch laborato\u0159\u00ed a poskytnout student\u016fm nov\u00e9 mo\u017enosti v\u00fduky. Vych\u00e1z\u00ed z praktick\u00e9ho u\u017eit\u00ed vjezdov\u00fdch bran a sna\u017e\u00ed se tuto problematiku studentovi prezentovat co nejsrozumiteln\u011bji a nejjednodu\u0161eji. D\u00edky v\u00fdsledku t\u00e9to pr\u00e1ce se \u017e\u00e1ci nau\u010d\u00ed pracovat s komponenty, jako jsou motory nebo senzory u\u017eit\u00e9 v praxi, programovat PLC LOGO a Foxtrot a z\u00edskaj\u00ed z\u00e1klady z pole elektroniky a automatiza\u010dn\u00edch technologi\u00ed.",
+        "field": "12. tvorba u\u010debn\u00edch pom\u016fcek, didaktick\u00e1 technologie",
+        "published": true,
+        "authors": "Jakub Sm\u011bl\u00edk, Vojt\u011bch Bursa",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/2b1241c4-9140-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/2b1241c4-9140-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Anal\u00fdza dopadu pandemie COVID-19 na spot\u0159ebitelsk\u00e9 v\u00fddaje v americk\u00fdch okresech",
+        "place": 1,
+        "description": "Tato pr\u00e1ce se zab\u00fdv\u00e1 dopadem pandemie COVID-19 na spot\u0159ebitelsk\u00e9 v\u00fddaje v americk\u00fdch okresech. K anal\u00fdze v\u00fdvoje v\u00fddaj\u016f v \u010dase vyu\u017e\u00edv\u00e1me t\u00fddenn\u00ed data zprost\u0159edkov\u00e1na americk\u00fdmi soukrom\u00fdmi spole\u010dnostmi. Okresy d\u011bl\u00edme dle jednotliv\u00fdch demografick\u00fdch a ekonomick\u00fdch faktor\u016f, abychom ur\u010dily, jak\u00e9 skupiny obyvatel byly pandemi\u00ed zasa\u017eeny nejv\u00edce. D\u00e1le se zab\u00fdv\u00e1me procesem ekonomick\u00e9 obnovy, p\u0159i\u010dem\u017e se sna\u017e\u00edme zjistit s jak\u00fdm typem opat\u0159en\u00ed byla obnova nejrychlej\u0161\u00ed. Anal\u00fdzu zakon\u010dujeme rozborem trojice st\u00e1tn\u00edch politik: uvoln\u011bn\u00ed karant\u00e9nn\u00edch opat\u0159en\u00ed, programu stimulov\u00fdch plateb dom\u00e1cnostem a znovuotev\u0159en\u00ed podnik\u016f. Sna\u017e\u00edme se zjistit, jak tyto politiky podpo\u0159ili spot\u0159ebitelskou popt\u00e1vku, abychom tak mohli vzn\u00e9st doporu\u010den\u00ed pro budouc\u00ed st\u00e1tn\u00ed politiku ur\u010denou k ukon\u010den\u00ed ekonomick\u00e9 krize.",
+        "field": "13. ekonomika a \u0159\u00edzen\u00ed",
+        "published": true,
+        "authors": "Otakar Ko\u0159\u00ednek",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/da3f6815-4059-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Dopady nov\u00e9 Hedv\u00e1bn\u00e9 stezky na \u010d\u00ednsko-africk\u00e9 ekonomick\u00e9 vztahy",
+        "place": 2,
+        "description": "Analyzovat roli Afriky v projektu nov\u00e9 Hedv\u00e1bn\u00e9 stezky, zhodnotit dopady tohoto projektu na \u010d\u00ednsko-africk\u00e9 ekonomick\u00e9 vztahy. V empirick\u00e9 \u010d\u00e1sti pr\u00e1ce vyhodnotit, jak dopad\u00e1 tento projekt na vybran\u00e9 africk\u00e9 st\u00e1ty (Egypt; Ke\u0148a).",
+        "field": "13. ekonomika a \u0159\u00edzen\u00ed",
+        "published": true,
+        "authors": "Michael Proch\u00e1zka",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/6b156aae-9610-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "\u017deny v komun\u00e1ln\u00ed politice",
+        "place": 3,
+        "description": "Tato pr\u00e1ce si klade za c\u00edl prozkoumat p\u0159ek\u00e1\u017eky, kter\u00fdm \u017eeny mus\u00ed \u010delit p\u0159i vstupu do komun\u00e1ln\u00ed politiky a z\u00edskat tak v\u00edce informac\u00ed o spole\u010densk\u00e9m fenom\u00e9nu problematiky n\u00edzk\u00e9ho zastoupen\u00ed \u017een v politice v \u010cR.",
+        "field": "13. ekonomika a \u0159\u00edzen\u00ed",
+        "published": true,
+        "authors": "Anna P\u00e1nkov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/0c766117-89a2-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Vzd\u011bl\u00e1vac\u00ed panely o lomu u obce Star\u00e1 Ves",
+        "place": 1,
+        "description": "Monitoring kamenolomu a jeho bl\u00edzk\u00e9ho okol\u00ed; vytvo\u0159en\u00ed vzd\u011bl\u00e1vac\u00edch tabul\u00ed; navrhnut\u00ed nau\u010dn\u00e9 stezky; zviditeln\u011bn\u00ed lokality",
+        "field": "14. pedagogika, psychologie, sociologie a problematika voln\u00e9ho \u010dasu",
+        "published": true,
+        "authors": "Adam Mikunda",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/ea5cb0c9-8bea-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Kr\u00e1tkodob\u00fd a dlouhodob\u00fd efekt filmov\u00e9ho n\u00e1sil\u00ed na agresivitu div\u00e1ka",
+        "place": 2,
+        "description": "Pr\u00e1ce se zab\u00fdv\u00e1 dlouhodob\u00fdm a kr\u00e1tkodob\u00fdm efektem filmov\u00e9ho n\u00e1sil\u00ed na agresivitu div\u00e1ka. C\u00edlem teoretick\u00e9 \u010d\u00e1sti je vytvo\u0159it p\u0159ehled dan\u00e9 problematiky a pochopit hlavn\u00ed mechanismy vlivu filmov\u00e9ho n\u00e1sil\u00ed na div\u00e1ka. Teoretick\u00e1 \u010d\u00e1st popisuje roli televize v ka\u017edodenn\u00edm \u017eivot\u011b jedince, definuje agresivn\u00ed chov\u00e1n\u00ed a vysv\u011btluje mechanismy p\u0159esunu agrese z filmu na div\u00e1ka podle doby jejich p\u016fsoben\u00ed. Pr\u00e1ce zd\u016fraz\u0148uje v\u00fdzvy, kter\u00fdm v\u00fdzkum filmov\u00e9ho n\u00e1sil\u00ed \u010del\u00ed. Sou\u010d\u00e1st\u00ed praktick\u00e9 \u010d\u00e1sti pr\u00e1ce je kvantitativn\u00ed v\u00fdzkumn\u00fd projekt, jeho\u017e c\u00edlem bylo ov\u011b\u0159it teorii kr\u00e1tkodob\u00e9 emo\u010dn\u00ed desenzibilizace v\u016f\u010di filmov\u00e9mu n\u00e1sil\u00ed. V\u00fdzkum (n = 30) byl realizov\u00e1n prost\u0159ednictv\u00edm experimentu, kter\u00fd se skl\u00e1dal z dev\u00edti n\u00e1siln\u00fdch filmov\u00fdch sc\u00e9n a dotazn\u00edku zkoumaj\u00edc\u00edho pot\u011b\u0161en\u00ed ze sledov\u00e1n\u00ed sc\u00e9ny a soucit s ob\u011bt\u00ed. Data byla zpracov\u00e1na bayesovsk\u00fdm modelov\u00e1n\u00edm r\u016fstov\u00e9 k\u0159ivky (BGCM). V\u00fdsledky pr\u00e1ce nazna\u010duj\u00ed, \u017ee po opakovan\u00e9m sledov\u00e1n\u00ed n\u00e1siln\u00fdch sc\u00e9n kles\u00e1 soucit s ob\u011bt\u00ed. Odhalena byla v\u00fdznamn\u00e1 korelace mezi frekvenc\u00ed sledov\u00e1n\u00ed n\u00e1siln\u00fdch film\u016f a pot\u011b\u0161en\u00edm z n\u00e1siln\u00fdch sc\u00e9n. Mezi \u00fa\u010dastn\u00edky byly zaznamen\u00e1ny v\u00fdrazn\u00e9 rozd\u00edly v m\u00ed\u0159e desenzibilizace, co\u017e nasv\u011bd\u010duje existenci osobnostn\u00edch prom\u011bnn\u00fdch, kter\u00e9 sklon k desenzibilizaci ovliv\u0148uj\u00ed.",
+        "field": "14. pedagogika, psychologie, sociologie a problematika voln\u00e9ho \u010dasu",
+        "published": true,
+        "authors": "Nat\u00e1lie Kiko\u0165ov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/522d99f0-55a3-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Rozd\u00edly vn\u00edman\u00e9 akademick\u00e9 \u00fa\u010dinnosti u student\u016f  2. a 3. ro\u010dn\u00edk\u016f gymn\u00e1zia",
+        "place": 3,
+        "description": "Zkoum\u00e1n\u00ed rozd\u00edl\u016f v p\u0159\u00edstupu ke studiu mezi studenty s\u00a0vysokou a n\u00edzkou vn\u00edmanou akademickou \u00fa\u010dinnost\u00ed a faktory, kter\u00e9 mohou tyto rozd\u00edly ovliv\u0148ovat.",
+        "field": "14. pedagogika, psychologie, sociologie a problematika voln\u00e9ho \u010dasu",
+        "published": true,
+        "authors": "Eli\u0161ka Hlav\u00e1\u010dkov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/912ed071-800f-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "P\u0159eklad a rozbor vybran\u00fdch b\u00e1sn\u00ed ze sb\u00edrky \"100 Gedichte\" Tilla Lindemanna",
+        "place": 1,
+        "description": "C\u00edlem pr\u00e1ce bylo p\u0159elo\u017eit, respektive p\u0159eb\u00e1snit vybran\u00e9 b\u00e1sn\u011b ze sb\u00edrky \"100 Gedichte\" Tilla Lindemanna a podlo\u017eit jejich p\u0159eklad rozborem a zd\u016fvod\u0148uj\u00edc\u00edm koment\u00e1\u0159em. Z\u00e1m\u011brem je zohlednit jak hledisko kulturn\u00ed, tak hledisko versologick\u00e9. \u0160\u00ed\u0159eji vyty\u010den\u00fdm c\u00edlem je zasadit v\u0161echny b\u00e1sn\u011b do kontextu cel\u00e9 b\u00e1snick\u00e9 sb\u00edrky \"100 Gedichte\" a do kontextu autorovy tvorby, stylizace a jeho charakteristick\u00fdch motiv\u016f.",
+        "field": "15. teorie kultury, um\u011bn\u00ed a um\u011bleck\u00e9 tvorby",
+        "published": true,
+        "authors": "\u0160imon Barto\u0148",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/d6c2bf62-0e4a-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Kouzla a techniky filmov\u00e9ho st\u0159ihu",
+        "place": 2,
+        "description": "Pr\u00e1ce se zab\u00fdv\u00e1 mo\u017enostmi st\u0159ihov\u00e9 skladby, pou\u017e\u00edvan\u00fdmi st\u0159ihov\u00fdmi technikami a jejich vlivem na psychiku \u010dlov\u011bka. Obsahuje stru\u010dnou historii v\u00fdvoje st\u0159ihov\u00e9 skladby a jej\u00edho v\u00fdznamu v kontextu filmov\u00e9 tvorby, obecn\u00fd \u00favod a nahl\u00e9dnut\u00ed na pr\u00e1ci st\u0159iha\u010de a popisy jednotliv\u00fdch aspekt\u016f a krit\u00e9ri\u00ed ovliv\u0148uj\u00edc\u00edch kvalitu st\u0159ihu. Obsahem praktick\u00e9 \u010d\u00e1sti je rozbor kr\u00e1tk\u00e9ho audiovizu\u00e1ln\u00edho d\u00edla s c\u00edlem ov\u011b\u0159it z\u00e1konitosti popsan\u00e9 v praktick\u00e9 \u010d\u00e1sti.",
+        "field": "15. teorie kultury, um\u011bn\u00ed a um\u011bleck\u00e9 tvorby",
+        "published": true,
+        "authors": "Marie \u0160ebkov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/d4f7d370-8ce2-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Hmatateln\u00e9 d\u011bdictv\u00ed a kr\u00e1sa \u00fa\u010delnosti",
+        "place": 3,
+        "description": "Poskytnou \u010dten\u00e1\u0159i p\u0159ehled nejnov\u011bj\u0161\u00ed litomy\u0161lsk\u00e9 architektury.",
+        "field": "15. teorie kultury, um\u011bn\u00ed a um\u011bleck\u00e9 tvorby",
+        "published": true,
+        "authors": "Jakub \u0160m\u00edd",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/15ffdac5-8a4d-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Balduin Lucembursk\u00fd v kontextu vrcholn\u00e9 evropsk\u00e9 politiky 14. stolet\u00ed",
+        "place": 1,
+        "description": "Hlavn\u00edm c\u00edlem t\u00e9to pr\u00e1ce bylo komplexn\u011b zmapovat \u017eivot Balduina Lucembursk\u00e9ho, trev\u00edrsk\u00e9ho arcibiskupa a lucembursk\u00e9ho hrab\u011bte (kolem 1285-1354). Nejd\u0159\u00edve jsem stru\u010dn\u011b popsal historick\u00fd v\u00fdvoj lucembursk\u00e9ho rodu, \u010dm\u00ed\u017e jsem zam\u00fd\u0161lel \u010dten\u00e1\u0159i p\u0159ibl\u00ed\u017eit Balduinovy p\u0159edky a jejich po\u010d\u00edn\u00e1n\u00ed, je\u017e se mohlo odrazit i v jeho chov\u00e1n\u00ed. V n\u00e1sleduj\u00edc\u00edch kapitol\u00e1ch jsem se v\u011bnoval v\u0161em etap\u00e1m \u017eivota Balduina Lucembursk\u00e9ho, od d\u011btstv\u00ed a\u017e po smrt. Dal\u0161\u00edm c\u00edlem bylo poodkr\u00fdt m\u00e9n\u011b zn\u00e1m\u00e1 nebo nezn\u00e1m\u00e1 fakta, kter\u00e1 byla byla ov\u0161em pro evropsk\u00e9 d\u011bjiny velmi d\u016fle\u017eit\u00e1.",
+        "field": "16. historie",
+        "published": true,
+        "authors": "Martin Podzimek",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/34fc8e9b-5edd-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Anab\u00e1ze st\u00edha\u010d\u016f Josefa Franti\u0161ka, Josefa Balejky, Mat\u011bje Pavlovi\u010de a Wilhelma Kosarze za druh\u00e9 sv\u011btov\u00e9 v\u00e1lky",
+        "place": 2,
+        "description": "C\u00edlem pr\u00e1ce je p\u0159edstavit \u010dty\u0159i letce, kte\u0159\u00ed se \u00fa\u010dastnili druh\u00e9 sv\u011btov\u00e9 v\u00e1lky, a to na z\u00e1klad\u011b vlastn\u00edho v\u00fdzkumu, kter\u00fd zahrnoval studium dobov\u00fdch pramen\u016f. Jejich \u017eivotn\u00ed osudy jsou za\u0159azeny do dobov\u00e9ho kontextu.",
+        "field": "16. historie",
+        "published": true,
+        "authors": "Kate\u0159ina Jakabov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/8aa521a6-985d-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Dlouh\u00fd p\u0159\u00edb\u011bh jedn\u00e9 D(d)louh\u00e9 ulice v Chomutov\u011b (P\u0159em\u011bna vybran\u00fdch historick\u00fdch p\u0159edm\u011bst\u00ed Chomutova se zam\u011b\u0159en\u00edm na 2. polovinu 20. stolet\u00ed)",
+        "place": 3,
+        "description": "C\u00edlem bylo nalezen\u00ed ka\u017ed\u00e9 jednotliv\u00e9 budovy a jej\u00ed p\u0159ekreslen\u00ed. Pokou\u0161el jsem se tedy o jak\u00e9si \"vzk\u0159\u00ed\u0161en\u00ed\" p\u016fvodn\u00ed ulice. D\u00e1le jsem cht\u011bl zjistit, zda bylo odstran\u011bn\u00ed cel\u00e9 t\u00e9to \u010d\u00e1sti m\u011bsta opodstatn\u011bn\u00e9. \r\nDrobn\u011bj\u0161\u00edm c\u00edlem bylo nap\u0159\u00edklad z\u00edsk\u00e1n\u00ed nov\u00fdch zku\u0161enost\u00ed, kter\u00e9 bych mohl v budouc\u00edm \u017eivot\u011b vyu\u017e\u00edt.",
+        "field": "16. historie",
+        "published": true,
+        "authors": "Radek Voch",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/723db85b-9061-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/723db85b-9061-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Deepfake-Anal\u00fdza postoj\u016f ve\u0159ejnosti k problematice deepfake form\u00e1t\u016f a p\u0159edstaven\u00ed mo\u017en\u00fdch variant \u0159e\u0161en\u00ed",
+        "place": 1,
+        "description": "Tato semin\u00e1rn\u00ed pr\u00e1ce se zab\u00fdv\u00e1 aktu\u00e1ln\u00ed problematikou deepfake technologi\u00ed. Mezi hlavn\u00ed c\u00edle pat\u0159\u00ed zanalyzovat znalost t\u00e9to technologie \u0161irokou ve\u0159ejnost\u00ed a zjistit, jak\u00e9 m\u00e1 postoje k navazuj\u00edc\u00edm ot\u00e1zk\u00e1m. Pomoc\u00ed experimentu ov\u011b\u0159it, nakolik je mo\u017en\u00e9 \u017e\u00e1ky nau\u010dit rozpozn\u00e1vat deepfake form\u00e1ty. V\u0161echny z\u00edskan\u00e9 poznatky pot\u00e9 aplikovat do mo\u017en\u00fdch variant \u0159e\u0161en\u00ed, kter\u00e9 p\u0159edkl\u00e1d\u00e1m v z\u00e1v\u011bru pr\u00e1ce.",
+        "field": "17. filozofie, politologie a ostatn\u00ed humanitn\u00ed a spole\u010denskov\u011bdn\u00ed obory",
+        "published": true,
+        "authors": "Radovan \u0160tencel",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/990f1af9-5268-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/990f1af9-5268-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Komparace prezidentsk\u00fdch voleb v USA 2016 a 2020",
+        "place": 2,
+        "description": "C\u00edlem t\u00e9to pr\u00e1ce je porovnat prezidentsk\u00e9 volby v USA v letech 2016 a 2020 a popsat faktory, kter\u00e9 vedly k v\u00edt\u011bzstv\u00ed Donalda Trumpa v roce 2016 a jeho por\u00e1\u017ece v roce 2020.",
+        "field": "17. filozofie, politologie a ostatn\u00ed humanitn\u00ed a spole\u010denskov\u011bdn\u00ed obory",
+        "published": true,
+        "authors": "Adam Ho\u0161ko",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/f47a84bf-8a9f-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "P\u0159ezkumy maturitn\u00edch zkou\u0161ek",
+        "place": 3,
+        "description": "Touto prac\u00ed bych p\u0159edev\u0161\u00edm cht\u011bla zv\u00fd\u0161it pov\u011bdom\u00ed o samotn\u00e9 problematice p\u0159ezkum\u016f maturitn\u00edch zkou\u0161ek a z\u00e1rove\u0148 dopomoci student\u016fm, jak \u017e\u00e1dost o p\u0159ezkum v\u00fdsledk\u016f maturitn\u00ed zkou\u0161ky podat a co to obn\u00e1\u0161\u00ed. Dal\u0161\u00edm z\u00e1m\u011brem m\u00e9 pr\u00e1ce je i \u0161et\u0159en\u00ed jedn\u00e1n\u00ed spr\u00e1vn\u00edch org\u00e1n\u016f p\u0159i p\u0159ezkumu podan\u00fdch \u017e\u00e1dost\u00ed. Mysl\u00edm, \u017ee by bylo vhodn\u00e9 \u0161et\u0159en\u00ed, kter\u00e9 by n\u00e1m uk\u00e1zalo zda spr\u00e1vn\u00ed org\u00e1ny skute\u010dn\u011b postupuj\u00ed ve vymezen\u00fdch mantinelech platn\u00e9 legislativy.",
+        "field": "17. filozofie, politologie a ostatn\u00ed humanitn\u00ed a spole\u010denskov\u011bdn\u00ed obory",
+        "published": true,
+        "authors": "Beata Anast\u00e1zie \u017d\u00e1kov\u00e1",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/9bb0365c-7166-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Na k\u0159i\u017eovatky s rozumem",
+        "place": 1,
+        "description": "Tato pr\u00e1ce se zab\u00fdv\u00e1 webovou aplikac\u00ed, v n\u00ed\u017e si m\u016f\u017ee u\u017eivatel testovat a tr\u00e9novat \u0159e\u0161en\u00ed r\u016fzn\u00fdch dopravn\u00edch situac\u00ed na k\u0159i\u017eovatk\u00e1ch, a to vytv\u00e1\u0159en\u00edm vlastn\u00edch dopravn\u00edch situac\u00ed, kter\u00e9 se n\u00e1sledn\u011b p\u0159ehraj\u00ed v anima\u010dn\u00edm okn\u011b, nebo odpov\u00edd\u00e1n\u00edm na p\u0159edem definovan\u00e9 testov\u00e9 ot\u00e1zky.",
+        "field": "18. Informatika",
+        "published": true,
+        "authors": "Filip Koch\u00e1\u0148, Jakub Merta",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/ed02d962-916d-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/ed02d962-916d-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Webov\u00fd port\u00e1l Burza\u0160kol.Online",
+        "place": 2,
+        "description": "C\u00edlem t\u00e9to pr\u00e1ce je vytvo\u0159it online platformu, kter\u00e1 umo\u017en\u00ed nahrazen\u00ed klasick\u00fdch burz \u0161kol v \u010cesk\u00e9 Republice, pomoc\u00ed modern\u00edch webov\u00fdch technologi\u00ed v dob\u011b pandemie Covidu-19. Tato platforma zprost\u0159edkuje kontakt mezi st\u0159edn\u00edmi \u0161kolami a \u017e\u00e1ky 9. ro\u010dn\u00edk\u016f z\u00e1kladn\u00edch \u0161kol v dob\u011b, kdy jsou klasick\u00e9 burzy \u0161kol z hygienick\u00fdch d\u016fvod\u016f nemo\u017en\u00e9.",
+        "field": "18. Informatika",
+        "published": true,
+        "authors": "V\u00edt Falta",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/8e09c9a2-75d1-11eb-acaf-005056bd6e49"
+      },
+      {
+        "title": "Aplikace 3N",
+        "place": 3,
+        "description": "Pr\u00e1ce se zab\u00fdv\u00e1 naprogramov\u00e1n\u00edm aplikace pro u\u010den\u00ed se ciz\u00edch slov. Aplikace je rozd\u011blena na studentskou \u010d\u00e1st, kter\u00e1 umo\u017e\u0148uje studentovi se u\u010dit slova prost\u0159ednictv\u00edm sady test\u016f a p\u0159id\u00e1vat si sv\u00e1 slova z webov\u00fdch str\u00e1nek nebo skenov\u00e1n\u00edm textu. U\u010ditelsk\u00e1 \u010d\u00e1st umo\u017e\u0148uje u\u010ditel\u016fm zad\u00e1vat slova k nau\u010den\u00ed skrze dom\u00e1c\u00ed \u00fakoly. Pr\u00e1ce se tak\u00e9 zab\u00fdv\u00e1 vytvo\u0159en\u00edm neuronov\u00e9 s\u00edt\u011b pro rozpozn\u00e1n\u00ed \u0159e\u010di na mobiln\u00edch za\u0159\u00edzen\u00edch.",
+        "field": "18. Informatika",
+        "published": true,
+        "authors": "Jan Klivan",
+        "pdf": "http://socv2.nidv.cz/archiv43/getWork/hash/57f2ff70-8576-11eb-acaf-005056bd6e49",
+        "attachment": "http://socv2.nidv.cz/archiv43/getAttach/hash/57f2ff70-8576-11eb-acaf-005056bd6e49"
+      }
+    ]
+  },
+  {
     "season": 42,
     "year": 2020,
     "theses": [
@@ -3708,9 +4214,8 @@
         "place": 3,
         "description": "C\u00edlem m\u00e9 pr\u00e1ce bylo komplexn\u011b shrnout poznatky o p\u0159ednostech a mo\u017en\u00fdch \u00faskal\u00edch kochle\u00e1rn\u00edho implant\u00e1tu, p\u0159edat zku\u0161enosti m\u00fdch vrstevn\u00edk\u016f s kochle\u00e1rn\u00edm implant\u00e1tem a vytvo\u0159it tak v co nejp\u0159ijateln\u011bj\u0161\u00ed a nejsrozumiteln\u011bj\u0161\u00ed podob\u011b ucelen\u00fd materi\u00e1l slou\u017e\u00edc\u00ed \u0161irok\u00e9 ve\u0159ejnosti.\r\nNem\u00e9n\u011b d\u016fle\u017eit\u00fdm z\u00e1m\u011brem pr\u00e1ce je tak\u00e9 podpo\u0159it osv\u011btu mlad\u00fdch lid\u00ed se zdravotn\u00edm handicapem prost\u0159ednictv\u00edm akc\u00ed ve ve\u0159ejn\u00e9m prostoru, kter\u00fdch jsem se osobn\u011b z\u00fa\u010dastnil.",
         "field": "6. zdravotnictv\u00ed ",
-        "published": true,
-        "authors": "Tom\u00e1\u0161 \u010cern\u00fd",
-        "pdf": "http://socv2.nidv.cz/archiv35/getWork/hash/be5f5a8a-87e1-11e2-b1f8-faa932cbcfda"
+        "published": false,
+        "authors": "Tom\u00e1\u0161 \u010cern\u00fd"
       },
       {
         "title": "V\u00fdnos a stoln\u00ed hodnota vybran\u00fdch odr\u016fd brambor",
@@ -3796,7 +4301,7 @@
       {
         "title": "CISMON \u2013 Monitor vit\u00e1ln\u00edch funkc\u00ed s dlouhodob\u00fdm z\u00e1znamem s mikrokontrolery PIC",
         "place": 1,
-        "description": "- navrhnout a sestavit prototyp za\u0159\u00edzen\u00ed, kter\u00e9 by m\u011b\u0159ilo EKG, saturaci krve, oximetrick\u00e9 k\u0159ivky, t\u011blesnou teplotu, okoln\u00ed teplotu a vlhkost vzduchu\r\n\r\n- umo\u017enit kontinu\u00e1ln\u00ed z\u00e1znam t\u011bchto dat na b\u011b\u017enou SD kartu naform\u00e1tovanou souborov\u00fdm syst\u00e9mem FAT16\r\n\r\n- navrhnout proveden\u00ed sond, kter\u00e9 by byly levn\u00e9 na v\u00fdrobu a z\u00e1rove\u0148 by poskytovaly komfort i p\u0159i dlouhodob\u00e9m no\u0161en\u00ed\r\n\r\n- zajistit kompatibilitu s profesion\u00e1ln\u00edmi m\u011b\u0159\u00edc\u00edmi sondami\r\n\r\n- vytvo\u0159it webovou aplikaci pro komunikaci pacient  l\u00e9ka\u0159, vizualizaci dat z SD karty a archivaci z\u00e1znam\u016f",
+        "description": "- navrhnout a sestavit prototyp za\u0159\u00edzen\u00ed, kter\u00e9 by m\u011b\u0159ilo EKG, saturaci krve, oximetrick\u00e9 k\u0159ivky, t\u011blesnou teplotu, okoln\u00ed teplotu a vlhkost vzduchu\r\n\r\n- umo\u017enit kontinu\u00e1ln\u00ed z\u00e1znam t\u011bchto dat na b\u011b\u017enou SD kartu naform\u00e1tovanou souborov\u00fdm syst\u00e9mem FAT16\r\n\r\n- navrhnout proveden\u00ed sond, kter\u00e9 by byly levn\u00e9 na v\u00fdrobu a z\u00e1rove\u0148 by poskytovaly komfort i p\u0159i dlouhodob\u00e9m no\u0161en\u00ed\r\n\r\n- zajistit kompatibilitu s profesion\u00e1ln\u00edmi m\u011b\u0159\u00edc\u00edmi sondami\r\n\r\n- vytvo\u0159it webovou aplikaci pro komunikaci pacient <-> l\u00e9ka\u0159, vizualizaci dat z SD karty a archivaci z\u00e1znam\u016f",
         "field": "10. elektrotechnika, elektronika a telekomunikace",
         "published": true,
         "authors": "Marek Nov\u00e1k",
